@@ -1,0 +1,7 @@
+Überlegung
+
+Extern: Viele Seiten, wieder verwendbar
+
+Intern: Einzelne Seite, schnell und übersichtlich
+
+Inline: Nur ein Element, Ausnahme, schnelle Änderung
