@@ -7,6 +7,7 @@ header {
     background-color: #333;
     color: white;
     padding: 10px 0;
+    height: 70px;
 }
 dt {
     font-weight: bold;
@@ -16,12 +17,14 @@ nav ul {
     list-style-type: none;
     margin-right: 0;
     padding: 0;
+    justify-content: center;
 }
 
 nav ul li {
     justify-self: center;
     margin: 0 15px;
-    
+    border: 2px solid white;
+    padding: 5px;
 }
 
 nav ul li a {
@@ -29,4 +32,9 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+
+nav ul li a:hover{
+    color:coral;
+}
+
 
